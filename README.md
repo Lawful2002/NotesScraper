@@ -1,5 +1,5 @@
 # Installation
-- `pip instal requirements.txt`
+- `pip install requirements.txt`
 
 # Run
 - Windows: `run_win.bat`
